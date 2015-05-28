@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Maschine - a better way to browse plugins
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Maschine - creating custom graphics for plugins and sound libraries
 ---
 
