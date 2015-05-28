@@ -1,6 +1,8 @@
 ---
 layout: post
 title: You're up and running!
+date: Friday 14 December, 2012
+excerpt: What text editor to use? Sass or plain old CSS? What on earth is Compass? Command 
 ---
 
 This is a new post...
