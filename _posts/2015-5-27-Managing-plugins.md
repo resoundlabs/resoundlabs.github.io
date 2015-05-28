@@ -13,6 +13,8 @@ Plugins can seem mystical - they just show up in your various apps, some as VST,
 
 To really take control of your plugins, you will want to get your hands dirty. I created a "shortcut" directory with symbolic links to each directory above. Accessing these directories allows you to do many things.
 
+<!--more-->
+
 * For troubleshooting, look and see if a plugin is on your system. If it isn't showing up in your app and you think it should be, double-check and see if its in the directory. There can be slight variations in name, but in general, its easy to figure out what is what. An example of this... in the directory the manufacturers name might be prepended to the plugin name, while it might not display that way in an app.
 * Remove plugins that you don't want to show up in your apps. For example, I removed the AU versions of plugins that I have a VST for as well (I use VST when I can - and no reason to clutter the list with AU plugs I won't ever use). 
 
