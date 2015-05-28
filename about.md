@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+#  A Little Studio
 
-### More Information
+I have amassed a lot of equipment over the years. Started as a hobby, grew into a full blown studio ([Trillium Lane](http://www.fmdesign.com/2013/wp-content/uploads/trillium-2.jpg)), morphed into a audio plugin business (TL Labs - sold to Digidesign - but our plugins, like [Space](https://www.avid.com/US/products/Space), live on!). Now, its back to a home studio again, but I still have a good bit of equipment.
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+<!-- [email@domain.com](mailto:email@domain.com) -->
