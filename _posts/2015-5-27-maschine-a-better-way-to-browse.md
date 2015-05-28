@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Maschine - a better way to browse plugins
-comment: true
 ---
 
 ## Plugin sanity!
