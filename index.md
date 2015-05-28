@@ -6,7 +6,7 @@ layout: default
 
 Caveats: I use a Mac - so if there are computer specific things below, they will be mac-ish. Also, Maschine posts are specific to Maschine Studio (might be applicable to regular Maschine, but I haven't checked).
 
-* [Managing plugins](Some-things-I-have-learned-about-plugins)
+* [Managing plugins](2015-5-27-Managing-plugins)
 * [Maschine, a better way to browse plugins](Maschine,-a-better-way-to-browse-plugins)
 * [Maschine, creating custom graphics for plugins and sound libraries](Maschine,-creating-custom-graphics-for-plugins-and-sound-libraries)
 * [More to come](Things-to-write-about)
