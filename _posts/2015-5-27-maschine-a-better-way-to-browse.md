@@ -3,6 +3,8 @@ layout: default
 title: Maschine - a better way to browse plugins
 ---
 
+# Maschine - a better way to browse plugins
+
 The browser does not do a great job in facilitating browsing 3rd party plugins. If you have a lot, the dropdown in the software can be monstrously long ([especially if you haven't pruned it](Some-things-I-have-learned-about-plugins)). You can access them on the controller by blah blah. FWIW, here is what I did.
 
 * load up a plugin

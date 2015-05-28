@@ -8,7 +8,7 @@ Caveats: I use a Mac - so if there are computer specific things below, they will
 
 * [Managing plugins](Managing-plugins)
 * [Maschine: a better way to browse plugins](maschine-a-better-way-to-browse)
-* [Maschine: creating custom graphics for plugins and sound libraries](Maschine,-creating-custom-graphics-for-plugins-and-sound-libraries)
+* [Maschine: creating custom graphics for plugins and sound libraries](maschine-custom-plugin-graphics)
 * [More to come](Things-to-write-about)
 * [Not music specific](Tip-list)
 
