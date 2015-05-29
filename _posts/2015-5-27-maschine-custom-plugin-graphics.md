@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creating custom graphics for plugins and sound libraries
+title: Custom graphics for plugins and sound libraries
 tags: machine
 ---
 
@@ -14,7 +14,7 @@ By default, 3rd party plugins all share a boring graphic that doesn't provide an
 
 1. Load up a plugin and right-click to Save As and save it to the User Library
 2. When browsing, it will now show up in User Library sorted by developer (with boring graphic)
-3. Create a directory with the developers name in `/` [e.g. `Camel Audio`]
+3. Create a directory with the developers name in `/Users/Shared/NI Resources/image` [e.g. `/Users/Shared/NI Resources/image/Camel Audio`]
 4. This will be the contents of the directory (the easiest way to begin is to copy the contents from one of the existing directories - or use this template) ![image](https://cloud.githubusercontent.com/assets/12622205/7874330/1b59f51e-057c-11e5-8eb5-bf75f78db1ab.png)
 5. Replace the contents of each `.png` file with new custom graphics
 6. Change the prefix of the file ending in `.meta` to match the directory name [e.g. `Camel Audio.meta`]
