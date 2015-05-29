@@ -13,7 +13,7 @@ By default, 3rd party plugins all share a boring graphic that doesn't provide an
 ## High level steps
 
 1. In the Maschine software, load up a 3rd party plugin, right-click and "Save As" to the User Library ([more on this](to_write))
-2. Now, when browsing ![image](https://cloud.githubusercontent.com/assets/12622205/7878108/57e5ceba-05b1-11e5-82f1-afe27d9e9688.png), it will show up in User Library sorted by developer (with boring graphic)
+2. Now, when browsing ![image](https://cloud.githubusercontent.com/assets/12622205/7878108/57e5ceba-05b1-11e5-82f1-afe27d9e9688.png), it will show up under User, sorted by developer (with boring graphic)
 3. Create a directory with the developer's name (as it shows up in Browser) in `/Users/Shared/NI Resources/image` <br>[e.g. `/Users/Shared/NI Resources/image/Camel Audio`]
 4. As a "template," copy the contents of another directory in `/image` to the new directory (or use this [template](files/Camel Audio.zip))
 6. Change the prefix of the file ending in `.meta` to match the directory name [e.g. `Camel Audio.meta`]. Now the contents of the directory should look like this <br>![image](https://cloud.githubusercontent.com/assets/12622205/7874330/1b59f51e-057c-11e5-8eb5-bf75f78db1ab.png)
@@ -35,8 +35,10 @@ By default, 3rd party plugins all share a boring graphic that doesn't provide an
 The graphics need to be `.png` files of specific sizes. There are tons of ways to accomplish this. Personally, I open each "template" png file in Photoshop, paste in a screen capture (creating a new top layer). Then select, resize, add text, clip, etc as needed. When it looks good, flatten the layers and save... done.
 
 ### Last points
+
 I have doublechecked and capitalization is not important. `Camel Audio` and `camel audio` both work. Spacing is important - `CamelAudio` will not work.
-**Extra special bonus points** from us all if someone can figure out how to do this for groups. This only applies to plugins and samples at this point. Custom groups saved in the User area all share the same Maschine top level image.
-This tutorial only covers Mac. If someone will doublecheck the specific paths for Windows and post details in the comments below, I will update the article.
-### Example
-![image](https://cloud.githubusercontent.com/assets/12622205/7833384/645af84c-0434-11e5-87d2-05b5fe292cf9.png)
+* **Extra special bonus points** from us all if someone can figure out how to do this for groups. This only applies to plugins and samples at this point. Custom groups saved in the User area all share the same Maschine top level * image.
+This tutorial only covers Mac. If someone will doublecheck the specific paths * for Windows and post details in the comments below, I will update the article.
+If you sync up the background image of the logo with the color in the color * db, it looks like it has a transparent background
+* changing the color in color db - that's another tutorial
+
