@@ -34,6 +34,15 @@ body {
   width: 100%;
 }
 
+#spacer {
+  background: $white;
+  margin: 0 auto;
+  max-width: 740px;
+  max-height: 5px;
+  padding: 0 10px;
+  width: 100%;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $darkerGray;
