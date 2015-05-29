@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-#  A Little Studio
-
 I have amassed a lot of equipment over the years. Started as a hobby, grew into a full blown studio...
 ![image](https://cloud.githubusercontent.com/assets/12622205/7877737/c9f098a0-05ac-11e5-9894-6a2083765020.png)
 which morphed into a audio plugin business (TL Labs - sold to Digidesign - but our plugins, like [Space](https://www.avid.com/US/products/Space), live on!).
