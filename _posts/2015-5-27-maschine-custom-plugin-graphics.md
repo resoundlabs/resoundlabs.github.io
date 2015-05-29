@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Maschine - creating custom graphics for plugins and sound libraries
-date: 2015-5-27
+tags: [machine]
 ---
 
 ![image](https://cloud.githubusercontent.com/assets/12622205/7875201/e52c1858-0587-11e5-802b-960ef8b17cf6.png)
