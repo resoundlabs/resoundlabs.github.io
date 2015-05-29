@@ -17,7 +17,7 @@ By default, 3rd party plugins all share a boring graphic that doesn't provide an
 3. Create a directory with the developers name in `/` [e.g. `Camel Audio`]
 4. This will be the contents of the directory (the easiest way to begin is to copy the contents from one of the existing directories - or use this template) ![image](https://cloud.githubusercontent.com/assets/12622205/7874330/1b59f51e-057c-11e5-8eb5-bf75f78db1ab.png)
 5. Replace the contents of each `.png` file with new custom graphics
-6. Change the prefix of the file ending in `.meta` to match the directory name [e.g.`Camel Audio.meta`]
+6. Change the prefix of the file ending in `.meta` to match the directory name [e.g. `Camel Audio.meta`]
 6. Start (or restart) Maschine
 
 ### Ok, dive into the details

@@ -77,6 +77,12 @@ h4 {
   color: $gray;
 }
 
+code {
+    font-family: monospace;
+    background: $white;
+    padding: 0 2px;
+}
+
 p {
   margin: 15px 0;
 }
