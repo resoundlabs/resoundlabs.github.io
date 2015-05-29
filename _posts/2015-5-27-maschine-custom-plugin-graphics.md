@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Maschine - creating custom graphics for plugins and sound libraries
-tags: [machine]
+title: Creating custom graphics for plugins and sound libraries
+tags: machine
 ---
 
 ![image](https://cloud.githubusercontent.com/assets/12622205/7875201/e52c1858-0587-11e5-802b-960ef8b17cf6.png)
@@ -25,7 +25,7 @@ By default, 3rd party plugins all share a boring graphic that doesn't provide an
 
 
 ### Last points
-I have doublecheck and capitalization is not important. `Camel Audio` and `camel audio` both work. Spacing is important - `CamelAudio` will not work.
+I have doublechecked and capitalization is not important. `Camel Audio` and `camel audio` both work. Spacing is important - `CamelAudio` will not work.
 Extra special bonus points from us all if someone can figure out how to do this for groups. This only applies to plugins and samples at this point. Custom groups saved in the User area all share the same Maschine top level image.
 This tutorial only covers Mac. If someone will doublecheck the specific paths for Windows and post details in the comments below, I will update the article.
 ### Example
