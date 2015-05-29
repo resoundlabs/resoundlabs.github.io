@@ -12,18 +12,20 @@ By default, 3rd party plugins all share a boring graphic that doesn't provide an
 
 ## High level steps
 
-1. load up a plugin and right-click to Save As and save it to the User Library
-2. when browsing, it will now show up in User Library sorted by developer (with boring graphic)
-3. create a directory with the developers name in `/`
-4. this will be the contents of the directory (the easiest way to begin is to copy the contents from one of the existing directories - or use this template) ![image](https://cloud.githubusercontent.com/assets/12622205/7874330/1b59f51e-057c-11e5-8eb5-bf75f78db1ab.png)
-5. replace the contents of each file with new custom graphics
-6. start (or restart) Maschine
+1. Load up a plugin and right-click to Save As and save it to the User Library
+2. When browsing, it will now show up in User Library sorted by developer (with boring graphic)
+3. Create a directory with the developers name in `/` [e.g. `Camel Audio`]
+4. This will be the contents of the directory (the easiest way to begin is to copy the contents from one of the existing directories - or use this template) ![image](https://cloud.githubusercontent.com/assets/12622205/7874330/1b59f51e-057c-11e5-8eb5-bf75f78db1ab.png)
+5. Replace the contents of each `.png` file with new custom graphics
+6. Change the prefix of the file ending in `.meta` to match the directory name [e.g.`Camel Audio.meta`]
+6. Start (or restart) Maschine
 
 ### Ok, dive into the details
 
 
 
 ### Last points
+I have doublecheck and capitalization is not important. `Camel Audio` and `camel audio` both work. Spacing is important - `CamelAudio` will not work.
 Extra special bonus points from us all if someone can figure out how to do this for groups. This only applies to plugins and samples at this point. Custom groups saved in the User area all share the same Maschine top level image.
 This tutorial only covers Mac. If someone will doublecheck the specific paths for Windows and post details in the comments below, I will update the article.
 ### Example
