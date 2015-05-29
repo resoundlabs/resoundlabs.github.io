@@ -11,6 +11,7 @@ By default, 3rd party plugins all share a boring graphic that doesn't provide an
 <!--more-->
 
 Here are the steps at a high level
+
 1. load up a plugin and right-click to Save As and save it to the User Library
 2. when browsing, it will now show up in User Library sorted by developer (with boring graphic)
 3. create a directory with the developers name in `/`
