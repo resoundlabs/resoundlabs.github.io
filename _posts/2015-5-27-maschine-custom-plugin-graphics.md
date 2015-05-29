@@ -22,11 +22,19 @@ By default, 3rd party plugins all share a boring graphic that doesn't provide an
 
 ### Ok, dive into the details
 
+* `MST_artwork.png` big picture on the right screen
+* `MST_logo.png` logo on the left screen
+* `MST_plugin.png` works only with NI plugs - editing will have no effect
+* `OSO_logo.png` no idea
+* `VB_artwork.png` text on the right side of software
+* `VB_logo.png` logo on the left side of software
+* `prism.meta` only requirement is correct name (appears to ignore `setting insde`)
+
 
 
 ### Last points
 I have doublechecked and capitalization is not important. `Camel Audio` and `camel audio` both work. Spacing is important - `CamelAudio` will not work.
-Extra special bonus points from us all if someone can figure out how to do this for groups. This only applies to plugins and samples at this point. Custom groups saved in the User area all share the same Maschine top level image.
+**Extra special bonus points** from us all if someone can figure out how to do this for groups. This only applies to plugins and samples at this point. Custom groups saved in the User area all share the same Maschine top level image.
 This tutorial only covers Mac. If someone will doublecheck the specific paths for Windows and post details in the comments below, I will update the article.
 ### Example
 ![image](https://cloud.githubusercontent.com/assets/12622205/7833384/645af84c-0434-11e5-87d2-05b5fe292cf9.png)
