@@ -36,9 +36,9 @@ The graphics need to be `.png` files of specific sizes. There are tons of ways t
 
 ### Last points
 
-I have doublechecked and capitalization is not important. `Camel Audio` and `camel audio` both work. Spacing is important - `CamelAudio` will not work.
-* **Extra special bonus points** from us all if someone can figure out how to do this for groups. This only applies to plugins and samples at this point. Custom groups saved in the User area all share the same Maschine top level * image.
-This tutorial only covers Mac. If someone will doublecheck the specific paths * for Windows and post details in the comments below, I will update the article.
-If you sync up the background image of the logo with the color in the color * db, it looks like it has a transparent background
+* I have doublechecked and capitalization is not important. `Camel Audio` and `camel audio` both work. Spacing is important - `CamelAudio` will not work.
+* **Extra special bonus points** from us all if someone can figure out how to do this for groups. This only applies to plugins and samples at this point. Custom groups saved in the User area all share the same Maschine top level image.
+* This tutorial only covers Mac. If someone will doublecheck the specific paths for Windows and post details in the comments below, I will update the article.
+* If you sync up the background image of the logo with the color in the color db, it looks like it has a transparent background
 * changing the color in color db - that's another tutorial
 
