@@ -41,4 +41,9 @@ The graphics need to be `.png` files of specific sizes. There are tons of ways t
 * This tutorial only covers Mac. If someone will doublecheck the specific paths for Windows and post details in the comments below, I will update the article.
 * If you sync up the background image of the logo with the color in the color db, it looks like it has a transparent background
 * changing the color in color db - that's another tutorial
+* There is a funky line inbetween the two graphics - yep I can see it - the lighter the color u use, the more it will show up.
+* sqlitebrowser
+* https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.6.0/sqlitebrowser-3.6.0.dmg
+* http://sqlitebrowser.org/
+*
 

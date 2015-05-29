@@ -31,7 +31,7 @@ body {
   margin: 0 auto; // ok - if I take auto out, it left aligns. So, to get it shifted slightly to the left, that is the trick (and have it still do its dynamic resizing)
   max-width: 740px;
   padding: 0 10px;
-  width: 100%;
+  width: 100%;}
 }
 
 // added this to create a little seperation between posts in blog view
