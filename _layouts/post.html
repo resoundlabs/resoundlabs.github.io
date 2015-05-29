@@ -8,6 +8,8 @@ layout: default
   <div class="date">
     {{ page.date | date: "%B %e, %Y" }}
   </div>
+  {% include twitter.html %}
+
 
   <div class="entry">
     {{ content }}

@@ -15,7 +15,7 @@ By default, 3rd party plugins all share a boring graphic that doesn't provide an
 1. Load up 3rd party plugin, right-click and "Save As" to the User Library
 2. Now, when browsing, it will now show up in User Library sorted by developer (with boring graphic)
 3. Create a directory with the developer's name (as it shows up in Browser) in `/Users/Shared/NI Resources/image` [e.g. `/Users/Shared/NI Resources/image/Camel Audio`]
-4. Copy the contents of another directory in `/image` to use as a template (or use this template)
+4. As a "template," copy the contents of another directory in `/image` to the new directory (or use this template)
 6. Change the prefix of the file ending in `.meta` to match the directory name [e.g. `Camel Audio.meta`]. Now the contents of the directory should look like this ![image](https://cloud.githubusercontent.com/assets/12622205/7874330/1b59f51e-057c-11e5-8eb5-bf75f78db1ab.png)
 5. Replace the contents of each `.png` file with new custom graphics
 6. Start (or restart) Maschine
