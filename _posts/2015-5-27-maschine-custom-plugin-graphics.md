@@ -4,7 +4,7 @@ title: Maschine - creating custom graphics for plugins and sound libraries
 date: 2015-5-27
 ---
 
-![image](https://cloud.githubusercontent.com/assets/12622205/7867376/b853ba3c-0543-11e5-8da0-5f74aa944266.png)
+![image](https://cloud.githubusercontent.com/assets/12622205/7875201/e52c1858-0587-11e5-802b-960ef8b17cf6.png)
 
 By default, 3rd party plugins all share a boring graphic that doesn't provide any visual cue to tell them apart. But, that can be changed!
 
