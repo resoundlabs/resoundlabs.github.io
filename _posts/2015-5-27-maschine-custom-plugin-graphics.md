@@ -15,7 +15,7 @@ By default, 3rd party plugins all share a boring graphic that doesn't provide an
 1. In the Maschine software, load up a 3rd party plugin, right-click and "Save As" to the User Library ([more on this](to_write))
 2. Now, when browsing ![image](https://cloud.githubusercontent.com/assets/12622205/7878108/57e5ceba-05b1-11e5-82f1-afe27d9e9688.png), it will show up in User Library sorted by developer (with boring graphic)
 3. Create a directory with the developer's name (as it shows up in Browser) in `/Users/Shared/NI Resources/image` <br>[e.g. `/Users/Shared/NI Resources/image/Camel Audio`]
-4. As a "template," copy the contents of another directory in `/image` to the new directory (or use this [template]("http://resoundlabs.github.io/files/Camel Audio.zip"))
+4. As a "template," copy the contents of another directory in `/image` to the new directory (or use this [template](http://resoundlabs.github.io/files/Camel Audio.zip))
 6. Change the prefix of the file ending in `.meta` to match the directory name [e.g. `Camel Audio.meta`]. Now the contents of the directory should look like this <br>![image](https://cloud.githubusercontent.com/assets/12622205/7874330/1b59f51e-057c-11e5-8eb5-bf75f78db1ab.png)
 5. Replace the contents of each `.png` file with new custom graphics
 6. Start (or restart) Maschine
