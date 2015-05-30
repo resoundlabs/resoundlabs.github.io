@@ -28,4 +28,5 @@ Waves plugins are different. Waves places a single plugin in each of these direc
 UA plugs are a PITA. The UA installation loads every single UA plugin (both VST and AU), even if you don't have a license. I promise if you don't remove the ones you don't have, you will continually select one and be prompted with a license dialog - very frustrating (and there are a bazillion, so they just clutter up the plugin drop downs). For VST, UA sticks all of their plugs in a subdirectory (further, all of the mono plugs are in yet another subdirectory). For AU, the plugs are all listed individually.
 
 ### Misc additional notes
+http://www.native-instruments.com/forum/threads/share-your-plugins-for-maschine-2-0-browser-heres-mine.210958/
 
