@@ -53,6 +53,10 @@ url:
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
+
+# Directories to include
+include: ['_pages']  # content in pages will be rendered as name/index.html
+
 #
 # !! You can, but do not need to, change any of the configuration flags below !!
 #
