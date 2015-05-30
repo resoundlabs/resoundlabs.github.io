@@ -56,7 +56,7 @@ baseurl: ""
 #
 
 markdown: redcarpet
-  extensions: ["no_intra_emphasis", "autolink", "tables", "with_toc_data", "space_after_headers", "superscript"]
+  extensions: [autolink]
 highlighter: pygments
 permalink: /:title/
 
