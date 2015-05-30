@@ -12,4 +12,5 @@ published: True
 * how to deal with graphics
 * what about a twitter bug
 * where should I store graphics
-*
+* `<br>` drops text down, but just below line above - doesn't create a new `<p>
+* `
