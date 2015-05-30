@@ -56,9 +56,11 @@ baseurl: ""
 #
 
 markdown: redcarpet
-  extensions: ["autolink"]
 highlighter: pygments
 permalink: /:title/
+
+redcarpet:
+  extensions: ["autolink"]
 
 # The release of Jekyll Now that you're using
 version: v1.1.0
