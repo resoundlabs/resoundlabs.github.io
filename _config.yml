@@ -2,6 +2,8 @@
 # This file contains configuration flags to customize your site
 #
 
+# More detail on jekyll site - http://jekyllrb.com/docs/configuration/#default-configuration
+
 # Name of your site (displayed in the header)
 name: skyway.audio
 
@@ -32,7 +34,7 @@ footer-links:
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 # Put this in body of post to split into exerpt and "the rest"
-excerpt_separator: <!--more-->
+excerpt_separator: <!--more-->  # an interesting alternative here is excerpt_separator: "\n\n"
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -52,14 +54,14 @@ url:
 baseurl: ""
 
 #
-# !! You don't need to change any of the configuration flags below !!
+# !! You can, but do not need to, change any of the configuration flags below !!
 #
 
 markdown: redcarpet
 highlighter: pygments
 permalink: /:title/
 
-#  add in all the special extensions for redcarpet - tables is key one
+#  Add in all the special extensions for redcarpet - tables is key one
 redcarpet:
   extensions: ["autolink", "no_intra_emphasis", "autolink", "tables", "with_toc_data", "space_after_headers", "superscript"]
 
