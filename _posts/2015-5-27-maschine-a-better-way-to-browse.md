@@ -1,16 +1,32 @@
 ---
 layout: post
 title: Maschine - a better way to browse plugins
+tags: [machine, audio]
 ---
 
 ## Plugin sanity!
 
-The browser does not do a great job in facilitating browsing 3rd party plugins. If you have a lot, the dropdown in the software can be monstrously long ([especially if you haven't pruned it](Some-things-I-have-learned-about-plugins)). You can access them on the controller by blah blah. FWIW, here is what I did.
+If you have a lot of 3rd party plugins, for the sake of sanity, "organize" them in the User section. With a lot of plugins, the dropdown in the software can be **monstrously** long/unwieldy ([especially if you haven't pruned it](Some-things-I-have-learned-about-plugins)). You can access them on the controller by blah blah.
 
-* load up a plugin
-* select Save As and save it with an `_` in front of the name. The underscore signifies that it is in it's default state (and will sort at the top of the list if you have also saved some plugins with patches or custom names).
-* the plugin will now show up in the "user" section. To select, click on the user button.
-* you can do this for the plugins that you use all the time, or if you are really bored, you can do it for every single plugin. In any case, they are much easier to access now.
-* to select a plugin, set to "user" and select by developer.
+## In a nutshell
 
-Even sexier, you can create custom graphics for each developer.
+* Load up a 3rd party plugin
+* In the software, right click on the plugin and select `Save As`. Idea: save it with an `_` in front of the name (e.g. `_LFO Tool`). The underscore signifies that the plugin's parameters are in a default state (and this will sort the name to the top of the list).
+* Now, `Browse` with `User` selected to see a list of plugin vendors on the left screen (which can be used to hone in a specific vendor)
+
+<!--more-->
+
+You can now organize your plugins in a plethora of ways
+
+* Save only the default state of the key plugins you use
+* Save the default state of every plugin you own (if you have a lot of time)
+* Save plugins with custom settings
+
+Lastly, instead of the boring default graphics above, you can make it look like this
+![image](https://cloud.githubusercontent.com/assets/12622205/7875201/e52c1858-0587-11e5-802b-960ef8b17cf6.png)
+
+Here are a bunch of other postings on the same subject.
+["Share your plugins for maschine 2.0 browser heres mine"](http://www.native-instruments.com/forum/threads/share-your-plugins-for-maschine-2-0-browser-heres-mine.210958/)
+[]()
+[]()
+[]()

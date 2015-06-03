@@ -4,7 +4,8 @@ title: My style guide
 categories: []
 tags: []
 published: True
-
+permalink: /styleguide/
+date: 2015-04-28
 ---
 
 * size of headers
