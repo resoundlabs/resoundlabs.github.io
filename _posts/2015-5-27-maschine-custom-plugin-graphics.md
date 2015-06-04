@@ -22,7 +22,7 @@ By default, 3rd party plugins all share a boring graphic that does not provide a
 
 ### Ok, the details for the specific files
 
-* `plugin_name.meta` file name needs to match the developer's name exactly - see example above (it is not necessary to edit the contents)
+* `plugin_name.meta` file name needs to match developer name exactly - see example above (it is not necessary to edit the contents)
 * `MST_artwork.png` graphic on Studio's right screen
 * `MST_logo.png` graphic on Studio's left screen
 * `VB_logo.png` graphic on the left side of Browser section in software
@@ -40,7 +40,7 @@ The graphics need to be `.png` files of specific sizes. There are tons of ways t
 * Special characters in the developer's name will screw things up. For example, `audio.de` or `Universal Audio, ` will not work. The developer name is derived from the plugin, so no way to change it.
 * This tutorial only covers Mac. If someone will doublecheck the specific paths for Windows and post details in the comments below, I will update the article.
 * It is possible to change the background color of the images on the controller and in the softare. Here is an example...
-* How to change the color in `color.db` - that's another [tutorial](towrite)
+* How to change the color in `color.db` - that's another [tutorial](/maschine-plugin-color-backgrounds)
 * A creative tip - if you set the background image of `MST_artwork.png` with the background color defined in `color.db`, the image looks like it has a transparent background.
 * You can change the graphics for Maschine's own logo as well
 * Note: there is a single pixel black line between the right side of `MST_logo.png` and the list of plugins. The lighter the colors in your graphic, the more it will show up.
@@ -49,7 +49,8 @@ The graphics need to be `.png` files of specific sizes. There are tons of ways t
 
 ### Links
 I did not come up with this - I figured it out from other postings (don't remember which one specifically to give credit). Here are a handful
-[]()
-[]()
-[]()
-[]()
+
+* [Maschine Masters - youtube](https://www.youtube.com/watch?v=2S0lLtAWho8)
+* [Maschine Masters - youtube (covers Windows)](https://www.youtube.com/watch?v=gIS2sJ_Rsy8)
+* [VIP Sound Labs - youtube](https://www.youtube.com/watch?v=gsrV3cC9XpY)
+* [NI Maschine Forum thread](https://www.native-instruments.com/forum/threads/tutorial-how-to-create-custom-images-for-kits-in-maschine-studio-and-2-0-software.210960/)
