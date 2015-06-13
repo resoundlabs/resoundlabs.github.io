@@ -2,7 +2,7 @@
 layout: post
 title: promises, promises
 categories: []
-tags: [javascript, promises, coffeescript]
+tags: []
 published: True
 
 ---
