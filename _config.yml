@@ -61,7 +61,8 @@ include: ['_pages']  # content in pages will be rendered as name/index.html
 # !! You can, but do not need to, change any of the configuration flags below !!
 #
 
-markdown: redcarpet
+markdown: kramdown
+# markdown: redcarpet
 highlighter: pygments
 permalink: /:title/
 
