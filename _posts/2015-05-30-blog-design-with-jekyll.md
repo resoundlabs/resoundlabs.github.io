@@ -1,6 +1,6 @@
 ---
 layout: post
-title: blog design with jekyll
+title: Blog design with jekyll
 categories: []
 tags: [jekyll]
 published: True

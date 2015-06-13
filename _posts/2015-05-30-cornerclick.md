@@ -1,6 +1,6 @@
 ---
 layout: post
-title: cornerclick
+title: CornerClick
 categories: [automation]
 tags: [shortcuts]
 published: True

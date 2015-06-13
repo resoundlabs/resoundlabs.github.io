@@ -54,3 +54,4 @@ I did not come up with this - I figured it out from other postings (don't rememb
 * [Maschine Masters - youtube (covers Windows)](https://www.youtube.com/watch?v=gIS2sJ_Rsy8)
 * [VIP Sound Labs - youtube](https://www.youtube.com/watch?v=gsrV3cC9XpY)
 * [NI Maschine Forum thread](https://www.native-instruments.com/forum/threads/tutorial-how-to-create-custom-images-for-kits-in-maschine-studio-and-2-0-software.210960/)
+http://www.native-instruments.com/forum/threads/plugins-brands-window.258164/
